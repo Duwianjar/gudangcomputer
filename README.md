@@ -1,13 +1,10 @@
 # Website Gudangcomputer e-commerce
 
+akun
 admin :
-
-adminduwi
-
+adminduwi |
 adminduwi
 
 customer :
-
-duwi
-
+duwi |
 duwi
