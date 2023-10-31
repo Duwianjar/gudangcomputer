@@ -1,6 +1,6 @@
 # Website Gudangcomputer E-commerce
 
-**Link Website:** [Gudangcomputer E-commerce](https://daawcomputer.000webhostapp.com/){:target="_blank"}
+**Link Website:** <a href="https://daawcomputer.000webhostapp.com/" target="_blank">Gudangcomputer E-commerce</a>
 
 **Akun Admin:**
 - Username: adminduwi
